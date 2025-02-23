@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+.navbar {
+    background-color: #f8f9fa;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+.container {
+    margin-top: 50px;
+    max-width: 1000px;
+}
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.form-header {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.btn-custom {
+    width: 200%;
+}
